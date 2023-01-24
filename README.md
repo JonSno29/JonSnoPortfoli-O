@@ -5,6 +5,8 @@
   <img width="500px" height="200px" src="welcome.svg"/>
   </div>
   
+  <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+
 ## USER STORY / OVERVIEW
 
 ```
