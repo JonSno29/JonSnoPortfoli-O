@@ -1,3 +1,33 @@
+/*custom font*/
+@font-face {
+  font-family: Centra;
+  src: url('./assets/');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./assets/');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./assets/');
+  font-weight: 500;
+}
+
+/* default css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
 .App {
   text-align: center;
 }
