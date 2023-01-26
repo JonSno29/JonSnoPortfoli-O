@@ -1,19 +1,19 @@
 /*custom font*/
 @font-face {
   font-family: Centra;
-  src: url('./assets/');
+  src: url('./assets/logo192.png');
   font-weight: 700;
 }
 
 @font-face {
   font-family: Centra;
-  src: url('./assets/');
+  src: url('./assets/logo192\ copy.png');
   font-weight: 600;
 }
 
 @font-face {
   font-family: Centra;
-  src: url('./assets/');
+  src: url('./assets/logo192\ copy\ 2.png');
   font-weight: 500;
 }
 
